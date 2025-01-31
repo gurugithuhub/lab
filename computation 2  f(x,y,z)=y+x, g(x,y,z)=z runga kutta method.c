@@ -1,3 +1,5 @@
+computation 2  f(x,y,z)=y+x, g(x,y,z)=z runga kutta method
+
 #include <stdio.h>
 
 // Define the given differential equations
