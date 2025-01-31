@@ -1,3 +1,5 @@
+#  compution f(x,y)=(z-x);g(x,z)=(x+y) runga kutta method
+
 #include <stdio.h>
 #include <math.h>
 
